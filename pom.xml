@@ -24,7 +24,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.12</version>
+      <version>4.13.1</version>
       <scope>test</scope><!--带有scope标签是限定使用环境，这里只允许在测试环境中使用-->
     </dependency>
     <dependency>
